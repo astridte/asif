@@ -45,7 +45,13 @@ The first step of this project is to download the repository or clone the reposi
 
 ### Step 3 : Run the project
 In order to run the project you have to run the GUI_final.py file that is found in the src folder.
-![alt text](https://github.com/astridte/asif/blob/main/step3.PNG)
+
+## How to use the UI
+The UI is very easy to use, it consists:
+* A video media player (face recognition is automatic)
+* A transcriber 
+* A summarizer
+* An audio media player
 
 
 ## Sources 
