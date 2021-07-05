@@ -35,8 +35,13 @@ The first step of this project is to download the repository or clone the reposi
 ![alt text](https://github.com/astridte/asif/blob/main/step1.PNG)
 
 ### Step 2 : Create a python virtual environment
-* Create a virtual environment and activate the environment 
-* install the requirement.txt file 
+* Create a virtual environment  $ python -m venv venv
+![alt text]( https://github.com/astridte/asif/blob/main/venv2.PNG )
+
+* Activate the virtual environment $ .\venv\Scripts\activate
+![alt text]( https://github.com/astridte/asif/blob/main/venv.PNG )
+
+* install the requirement.txt file $ pip install -r .\path\to\requirement.txt
 
 ### Step 3 : Run the project
 In order to run the project you have to run the GUI_final.py file that is found in the src folder.
