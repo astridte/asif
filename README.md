@@ -12,7 +12,7 @@ This project is a partial fulfilment of the Intelligent Interface course of Post
 
 This project is built as a UI which loads video meetings and does the job. 
 
-
+## Installation of dependencies
 Installation of Visual Studio C++ is needed for dlib
 https://visualstudio.microsoft.com/downloads/
 Visual Studio Build tools 2019
@@ -25,3 +25,7 @@ Installation of vlc media player
 https://vlc-media-player.en.uptodown.com/windows
 
 This code has been tested on windows 10, with python 3.7. 
+
+## How to install the project?
+
+
