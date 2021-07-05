@@ -1,6 +1,17 @@
-# ASIF_EP
+# ASIF Meeting Minute Summarizer
 
-A meeting minute summarizer 
+## Description of the project
+
+This project is a partial fulfilment of the Intelligent Interface course of Post-graduate program in Artificial Intelligence of Erasmus Hogeschool Brussel. The project is a 
+ meeting minute summarizer used on videos of the daily ;eetings in the European Parliament. The summarizer does the following tasks:
+ 
+ * Recognizes the member of the European Parliament
+ * Transcribes spoken words to text 
+ * Summarizes transcribed text
+ * And reads out loud the summarized text
+
+This project is built as a UI which loads video meetings and does the job. 
+
 
 Installation of Visual Studio C++ is needed for dlib
 https://visualstudio.microsoft.com/downloads/
