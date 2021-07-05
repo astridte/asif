@@ -30,10 +30,17 @@ This code has been tested on windows 10, with python 3.7 and all the package req
 
 ## How to install the project?
 
-### Step 1: Download the project or clone the repository
+### Step 1 : Download the project or clone the repository
 The first step of this project is to download the repository or clone the repository on your local repository. 
 ![alt text](https://github.com/astridte/asif/blob/main/step1.PNG)
 
+### Step 2 : Create a python virtual environment
+* Create a virtual environment and activate the environment 
+* install the requirement.txt file 
+
+### Step 3 : Run the project
+In order to run the project you have to run the GUI_final.py file that is found in the src folder.
+![alt text](https://github.com/astridte/asif/blob/main/step3.PNG)
 
 
 ## Sources 
