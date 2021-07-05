@@ -11,6 +11,7 @@ This project is a partial fulfilment of the Intelligent Interface course of Post
  * And reads out loud the summarized text
 
 This project is built as a UI which loads video meetings and does the job. 
+At the current state, the project is only tested in a one person meeting, further developement has to be made to adapt summarization to multiple people interacting with each other.
 
 ## Installation of dependencies
 Installation of Visual Studio C++ is needed for dlib
@@ -24,8 +25,16 @@ https://cmake.org/download/
 Installation of vlc media player
 https://vlc-media-player.en.uptodown.com/windows
 
-This code has been tested on windows 10, with python 3.7. 
+### Requirement
+This code has been tested on windows 10, with python 3.7 and all the package requirements can be found in the requirement.txt file. 
 
 ## How to install the project?
+
+## Sources 
+Some sources for this project can be listed here
+* https://github.com/ageitgey/face_recognition
+* https://pypi.org/project/gTTS/
+* https://arxiv.org/abs/1810.04805
+* https://www.europarl.europa.eu/portal/en
 
 
