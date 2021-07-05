@@ -30,6 +30,12 @@ This code has been tested on windows 10, with python 3.7 and all the package req
 
 ## How to install the project?
 
+### Step 1: Download the project or clone the repository
+The first step of this project is to download the repository or clone the repository on your local repository. 
+![alt text](https://github.com/astridte/asif/blob/main/step1.PNG)
+
+
+
 ## Sources 
 Some sources for this project can be listed here
 * https://github.com/ageitgey/face_recognition
