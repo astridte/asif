@@ -36,9 +36,11 @@ The first step of this project is to download the repository or clone the reposi
 
 ### Step 2 : Create a python virtual environment
 * Create a virtual environment  $ python -m venv venv
+
 ![alt text]( https://github.com/astridte/asif/blob/main/venv2.PNG )
 
 * Activate the virtual environment $ .\venv\Scripts\activate
+
 ![alt text]( https://github.com/astridte/asif/blob/main/venv.PNG )
 
 * install the requirement.txt file $ pip install -r .\path\to\requirement.txt
