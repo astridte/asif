@@ -50,10 +50,10 @@ In order to run the project you have to run the GUI_final.py file that is found 
 
 ## How to use the UI
 The UI is very easy to use, it consists:
-* A video media player (face recognition is automatic)
-* A transcriber 
-* A summarizer
-* An audio media player
+* A video media player (face recognition is automatic): a file can be chosen from the Dataset folder and played. Face Recognition is executed in parallel as the video is played. 
+* A transcriber: You have to press the transcribe button, when you are prompted to do so.
+* A summarizer: You can press the summarize button, when the transcription is finished.
+* An audio media player: You will be prompted to play the audio transcription, when summarization will be done.
 
 
 ## Sources 
