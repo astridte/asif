@@ -54,7 +54,7 @@ The UI is very easy to use, it consists:
 * A transcriber: You have to press the transcribe button, when you are prompted to do so. The recognized members will appear on the 'Attendee List' at the left. 
 * A summarizer: You can press the summarize button, when the transcription is finished.
 * An audio media player: You will be prompted to play the audio transcription, when summarization will be done.
-![alt text]( https://github.com/astridte/asif/blob/main/Asif_gui3.PNG )
+![alt text]( https://github.com/astridte/asif/blob/main/Asif_gui3.png )
 
 
 
