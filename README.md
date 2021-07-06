@@ -46,12 +46,12 @@ The first step of this project is to download the repository or clone the reposi
 * install the requirement.txt file $ pip install -r .\path\to\requirement.txt
 
 ### Step 3 : Run the project
-In order to run the project you have to run the GUI_final.py file that is found in the src folder.
+In order to run the project you have to run the GUI_final.py file that is found in the src folder. An error window will, occur, you should just press ok.
 
 ## How to use the UI
 The UI is very easy to use, it consists:
 * A video media player (face recognition is automatic): a file can be chosen from the Dataset folder and played. Face Recognition is executed in parallel as the video is played. 
-* A transcriber: You have to press the transcribe button, when you are prompted to do so.
+* A transcriber: You have to press the transcribe button, when you are prompted to do so. The recognized members will appear on the 'Attendee List' at the left. 
 * A summarizer: You can press the summarize button, when the transcription is finished.
 * An audio media player: You will be prompted to play the audio transcription, when summarization will be done.
 
